@@ -1,0 +1,11 @@
+#Area1 {visibility:hidden; position: absolute; height: 75%;
+width: 600px; overflow: scroll; background-color: #CCFFFF;}
+
+#Area2  {visibility:hidden; position: absolute; height: 75%;
+width: 600px; overflow: scroll; background-color: #99FFFF;}
+
+footer {
+    font-style: italic;
+    text-align: center;
+    background-color: rgb(255,105,180);
+}
