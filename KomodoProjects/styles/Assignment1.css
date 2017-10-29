@@ -1,11 +1,15 @@
-#Area1 {visibility:hidden; position: absolute; height: 75%;
-width: 600px; overflow: scroll; background-color: #CCFFFF;}
+#Area1 {display: none; position: relative; height: 100%;
+width: 600px; float: none;}
 
-#Area2  {visibility:hidden; position: absolute; height: 75%;
-width: 600px; overflow: scroll; background-color: #99FFFF;}
+#Area2  {display: none; position: relative; height: 100%;
+width: 600px; float: none;}
 
-footer {
-    font-style: italic;
-    text-align: center;
-    background-color: rgb(255,105,180);
+
+
+footer {position: relative; width: 100%; bottom: 0;
+font-style: italic;
+text-align: center;
+background-color: rgb(255,105,180);
 }
+
+
